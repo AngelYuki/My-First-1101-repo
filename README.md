@@ -1,4 +1,4 @@
-#My first Github repositroy
+# My first Github repositroy
 Hello! My name is Luis, and this is my first Github repositroy.
 Im learning Git and Github for version control
 
